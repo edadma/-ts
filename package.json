@@ -1,7 +1,7 @@
 {
   "name": "-ts",
   "version": "1.0.0",
-  "description": "Typescript template",
+  "description": "Typescript/Node.js template",
   "repository": {
     "type": "git",
     "url": "git://github.com/edadma/-ts.git"
